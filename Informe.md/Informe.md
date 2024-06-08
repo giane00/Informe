@@ -27,23 +27,43 @@ A lo largo de esta pagina se detalla el funcionamiento del Parque Solar Zonda I,
 
 ## Contenido  
 
-### [Hipotesis](#hipotesis)
+### [Hipotesis](#hipotesis-1)
 
-### [Historia de YPF Luz](#historia-de-ypf-luz)
+#### [Descripción Tecnica de Materiales de Parque Zonda I](#descripcion-tecnica-de-materiales-de-parque-zonda-i)
 
-### [Entrevista a Ingeniero](#entrevista-a-ingeniero)
+#### [Parque Solar Zonda I ante su competencia](#parque-solar-zonda-i-ante-su-competencia-1)
 
-### [Opiniones Personales](#opiniones-personales)
+#### [Implementación a la industria 4.0](#implementacion-a-la-industria-40)
 
-### [Conclución](#conclución)
+### [Historia de YPF Luz](#historia-de-ypf-luz-1)
 
-### [Cibergrafia](#cibergrafia)
+### [Entrevista a Ingeniero](#entrevista-a-ingeniero-1)
+
+### [Opiniones Personales](#opiniones-personales-1)
+
+#### [Opinion personal de Santino Bustos](#opinion-personal-de-santino-bustos-1)
+
+#### [Opinion personal de Daina Cabañez](#opinion-personal-de-daiana-cabañez)
+
+#### [Opinion personal de Nicole Lauria](#opinion-personal-de-nicole-lauria-1)
+
+#### [Opinion personal de Rocio Luffi](#opinion-personal-de-rocio-luffi-1)
+
+#### [Opinion Personal de Emiliano Nadin](#opinion-personal-de-emiliano-nadin-1)
+
+#### [Opinion Personal de Matias Suarez](#opinion-personal-de-matias-suarez-1)
+
+#### [Opinion Personal de Gianella Torres](#opinion-personal-de-gianella-torres-1)
+
+### [Cibergrafia](#cibergrafia-1)
 
 ***
 
 ## Hipotesis
 
 La integración de tecnologías de la Industria 4.0 en el Parque Solar Zonda I ha impulsado la eficiencia y sostenibilidad en la generación de energía, abriendo oportunidades para que la industria adopte este recurso renovable y libre de emisiones de gases de efecto invernadero como parte de su estrategia de producción inteligente y sostenible.
+
+[Volver al Indice](#contenido)
 
 ## Historia de YPF Luz
 
@@ -66,7 +86,9 @@ Por otra parte, 360 Energy es una empresa que se especializa en proyectos de ene
 1. Generación anual de energía esperada (GWh): La energía de generación anual esperada es de 312 GWh equivalente a la demanda de 88.000 hogares.
 2. Emisiones de gases de efecto invernadero reducidas o evitadas (tn CO2 eq): Se estima que el Parque Solar Zonda contribuirá a la disminución de gases de efecto invernadero de aproximadamente 110 mil tn CO2 equivalentes al año.
 
-### Descripción Tecnica de Materiales de Parque Zonda I
+[Volver al Indice](#contenido)
+
+### Descripcion Tecnica de Materiales de Parque Zonda I
 
 **Paneles fotovoltaicos:** son de tipo policristalino con un rango de eficiencia promedio cercana al 20% y una potencia nominal de 450 Wp. Para el Proyecto se instalaron 170.880 módulos.
 
@@ -82,6 +104,8 @@ adversas, ancladas al terreno mediante distintos sistemas de fundación.
 **Centros de transformaciones:** Son de intemperie y modulares, ubicados en posiciones establecidas en la etapa de diseño de la planta. Su función es elevar a media tensión (33kV) la generación solar de los inversores. El diseño adoptado considera la instalación de 17 PCS (Power Conversion Stations).
 
 **Celdas de media tensión:** Son aquellas que vinculan los centros de transformación que integran el circuito radial en 33 kV hasta llegar a la SET (Subestación Transformadora) del Parque Solar. Las celdas de MT son de tipo modular, en cuerpos independientes, internamente divididas en compartimientos metálicos separados entre sí y cumplen con los requerimientos impuestos por la compañía distribuidora del área. La construcción del Zonda I contempla la ejecución de inversiones en instalaciones para su vinculación al SADI (Sistema Argentino de Interconexión).
+
+[Volver al Indice](#contenido)
 
 ### Parque Solar Zonda I ante su competencia
 
@@ -99,7 +123,9 @@ El entrevistado en YPF Luz, recomendó investigar sobre el parque solar PASIP, s
 
 Como se puede observar en la tabla, los números y datos del Parque Solar Zonda I son superiores a los del parque solar PASIP. Esto indica que YPF Luz es una empresa estructuralmente superior e internacional a PASIP, contando con inversores, proveedores del exterior y mayor capital, entre otras ventajas. Cabe aclarar que ambas empresas son nuevas, siendo PASIP un parque solar creado en 2019, y el Parque Solar Zonda I en 2023, por lo que no es posible tener un buen promedio de sus rendimientos pero sí una aproximación acorde a los datos recolectados.
 
-### Implementación a la industria 4.0
+[Volver al Indice](#contenido)
+
+### Implementacion a la industria 4.0
 
 Como empresa en el sector energético, se relaciona con la Industria 4.0 mediante la adopción de tecnologías avanzadas en sus operaciones, como la automatización, el análisis de datos y la inteligencia artificial tanto en recursos industriales como humanos. Estas herramientas le permiten al parque optimizar la exploración y producción de energía, aumentar la seguridad en las operaciones y desarrollar nuevos productos y servicios energéticos más sostenibles. Permitiendo así lograr en un futuro el aumento de la cantidad de paneles para poder abastecer el doble de energía de lo que se está realizando actualmente, buscando ser unos de los parques solares con más influencia en el sector eléctrico del país.
 A pesar de ser una empresa relativamente nueva, su desarrollo en la industria 4.0 no ha sido implementada y desarrollada correctamente. Pero por el momento ha logrado múltiples metas que sientan bases para su completa implementación. Tales como:
@@ -112,6 +138,8 @@ A pesar de ser una empresa relativamente nueva, su desarrollo en la industria 4.
 
 > " Cuando se piensa en el desarrollo de un país, no solo se tiene que pensar en producir energía convencional y no convencional, basada en petróleo y gas, sino también en acompañar la transición energética a través de proyectos sustentables y con resultados rentables que vayan empujando la mejora que tuvo YPF. La compañía se encuentra en una etapa de transición energética, tal que la energía tradicional como petróleo y gas será clave para su financiamiento. La energía tiene que ser acorde al desarrollo de los nuevos tiempos, limpia y renovable "
 Pablo Gonzalez, Presidente de YPF
+
+[Volver al Indice](#contenido)
 
 ## Entrevista a Ingeniero
 
@@ -158,6 +186,8 @@ Pablo Gonzalez, Presidente de YPF
 • **¿Creen que la energía solar reemplazará a la energía convencionales eventualmente?**
 >“Si en algún momento las  energías renovables, como la eólica, la geotérmica, biológica (energía con las plantas), reemplazan a las convencionales. Aunque la energía solar, al no generar electricidad en la noche, es una energía medianamente cara respecto a las convencionales, pero se reemplazará.”
 
+[Volver al Indice](#contenido)
+
 ## Opiniones Personales
 
 ### **Opinion personal de Santino Bustos**
@@ -168,7 +198,7 @@ La industria 4.0 ya lo veo como algo necesario para el desarrollo y empeño de l
 
 Con respecto al Parque Solar Zonda I veo muy importante la existencia de una empresa así en la Argentina por el gran trabajo con la energía renovable y sustentable, cuidando en gran medida el medio ambiente. Destacan las nuevas tecnologías que implementan para poder cuidar en gran medida el medio ambiente, lo cual veo muy necesario en la actualidad. Tienen un gran nivel de administración y organización, lo cual hace que se vea un gran progreso en el cumplimiento de sus objetivos. Es una empresa en la cual me podría ver trabajando por sus objetivos de generar energía sustentable usando lo justo y necesario para cuidar el ambiente, e innovación de nuevas tecnologías, lo cual son temas que me generan un gran interés en la actualidad.
 
-### **Opinion personal de Daina Cabañez**
+### **Opinion personal de Daiana Cabañez**
 
 En lo personal creo que el Parque Solar Zonda I es un trabajo importante que debe ser reconocido por los beneficios que traen, además se utilizan tecnologías industriales 4.0 con eficacia y compromiso ya que su objetivo es generar energía sana para el medio ambiente innovandose a diferencias de otras plantas solares. produciendo energía limpia y renovable.
 
@@ -219,7 +249,9 @@ Aunque valoro sus contribuciones, personalmente, la energía solar no es mi pref
 
 Por otro lado, reconozco la excelente organización en la creación y gestión del proyecto, así como la eficiencia con la que la planta lleva a cabo sus actividades. Sin embargo, como estudiante de ingeniera mecatrónica, no consideraría trabajar allí ya que siento que el campo laboral para expandir mis conocimientos y habilidades sería limitado.
 
-## Conclución
+[Volver al Indice](#contenido)
+
+***
 
 ## Cibergrafia
 
@@ -251,3 +283,7 @@ Por otro lado, reconozco la excelente organización en la creación y gestión d
 [YPF Luz. Política anti Soborno.](https://www.ypfluz.com/Content/pdf/politicas/PoliticaAntisoborno.pdf)
 
 [YPF Luz. Relaciones con los inversores. Información Financiera.](https://www.ypfluz.com/RI/InformacionFinanciera)
+
+***
+
+[Volver al Indice](#contenido)
