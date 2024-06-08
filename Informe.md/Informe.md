@@ -59,7 +59,7 @@ A lo largo de esta pagina se detalla el funcionamiento del Parque Solar Zonda I,
 
 ***
 
-## Hipotesis
+## Hipotesis 
 
 La integración de tecnologías de la Industria 4.0 en el Parque Solar Zonda I ha impulsado la eficiencia y sostenibilidad en la generación de energía, abriendo oportunidades para que la industria adopte este recurso renovable y libre de emisiones de gases de efecto invernadero como parte de su estrategia de producción inteligente y sostenible.
 
