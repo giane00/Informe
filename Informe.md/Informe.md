@@ -27,35 +27,35 @@ A lo largo de esta pagina se detalla el funcionamiento del Parque Solar Zonda I,
 
 ## Contenido  
 
-### [Hipotesis](#hipotesis-1)
+### [Hipotesis](#hipotesis)
+
+### [Historia de YPF Luz](#historia-de-ypf-luz)
 
 #### [Descripción Tecnica de Materiales de Parque Zonda I](#descripcion-tecnica-de-materiales-de-parque-zonda-i)
 
-#### [Parque Solar Zonda I ante su competencia](#parque-solar-zonda-i-ante-su-competencia-1)
+#### [Parque Solar Zonda I ante su competencia](#parque-solar-zonda-i-ante-su-competencia)
 
 #### [Implementación a la industria 4.0](#implementacion-a-la-industria-40)
 
-### [Historia de YPF Luz](#historia-de-ypf-luz-1)
+### [Entrevista a Ingeniero](#entrevista-a-ingeniero)
 
-### [Entrevista a Ingeniero](#entrevista-a-ingeniero-1)
+### [Opiniones Personales](#opiniones-personales)
 
-### [Opiniones Personales](#opiniones-personales-1)
-
-#### [Opinion personal de Santino Bustos](#opinion-personal-de-santino-bustos-1)
+#### [Opinion personal de Santino Bustos](#opinion-personal-de-santino-bustos)
 
 #### [Opinion personal de Daina Cabañez](#opinion-personal-de-daiana-cabañez)
 
-#### [Opinion personal de Nicole Lauria](#opinion-personal-de-nicole-lauria-1)
+#### [Opinion personal de Nicole Lauria](#opinion-personal-de-nicole-lauria)
 
-#### [Opinion personal de Rocio Luffi](#opinion-personal-de-rocio-luffi-1)
+#### [Opinion personal de Rocio Luffi](#opinion-personal-de-rocio-luffi)
 
-#### [Opinion Personal de Emiliano Nadin](#opinion-personal-de-emiliano-nadin-1)
+#### [Opinion Personal de Emiliano Nadin](#opinion-personal-de-emiliano-nadin)
 
-#### [Opinion Personal de Matias Suarez](#opinion-personal-de-matias-suarez-1)
+#### [Opinion Personal de Matias Suarez](#opinion-personal-de-matias-suarez)
 
-#### [Opinion Personal de Gianella Torres](#opinion-personal-de-gianella-torres-1)
+#### [Opinion Personal de Gianella Torres](#opinion-personal-de-gianella-torres)
 
-### [Cibergrafia](#cibergrafia-1)
+### [Cibergrafia](#cibergrafia)
 
 ***
 
